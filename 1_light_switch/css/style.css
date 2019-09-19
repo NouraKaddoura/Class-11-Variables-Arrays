@@ -1,0 +1,23 @@
+body.off{ background-color: black; }
+
+
+body{
+    text-align: center;
+    padding-top: 77px;
+    font-family: arial;
+}
+button{
+    cursor: pointer;
+    padding: 21px;
+    font-size: 21px;
+    border: solid 1px #007BAC;
+    background-color: #007BAC;
+    color: #FFFFFF;
+    box-shadow: 0rem 0.1rem 0.75rem #000000;
+}
+.off button{
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+    color: #000000;
+    box-shadow: 0px 0px 0px #000000;
+}
